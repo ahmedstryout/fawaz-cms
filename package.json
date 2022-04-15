@@ -1,8 +1,8 @@
 {
   "name": "fawaz-cms",
   "private": true,
-  "version": "0.1.0",
-  "description": "A Strapi application",
+  "version": "1.0.0",
+  "description": "CMS for portfolio site",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -18,13 +18,13 @@
     "sqlite3": "5.0.2"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Soham Sarkar"
   },
   "strapi": {
     "uuid": "20f58e0c-2af1-4015-89b6-2f9063b4dd3b"
   },
   "engines": {
-    "node": ">=14 <=16",
+    "node": "14",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
